@@ -8,7 +8,7 @@ The application basically asks for various information from the customer. This i
 
 ## Screenshots
 
-![Launch Screen](app/kotlin+java/com.example.shoppyapp/images/ss01.png)
+![Launch Screen](app/src/main/java/com/example/shoppyapp/images/ss01.png)
 ![AutoComplete Textview](app/kotlin+java/com.example.shoppyapp/images/ss02.png)
 ![RadioButton and Dropdown](app/kotlin+java/com.example.shoppyapp/images/ss03.png)
 ![Manipulative radiogroup options](app/kotlin+java/com.example.shoppyapp/images/ss04.png)
