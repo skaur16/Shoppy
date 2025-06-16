@@ -8,12 +8,12 @@ The application basically asks for various information from the customer. This i
 
 ## Screenshots
 
-![Launch Screen](images/ss01.png)
-![AutoComplete Textview](images/ss02.png)
-![RadioButton and Dropdown](images/ss03.png)
-![Manipulative radiogroup options](images/ss04.png)
-![Invoice 1](images/ss05.png)
-![Full invoice](images/ss08.png)
+![Launch Screen](app/kotlin+java/com.example.shoppyapp/images/ss01.png)
+![AutoComplete Textview](app/kotlin+java/com.example.shoppyapp/images/ss02.png)
+![RadioButton and Dropdown](app/kotlin+java/com.example.shoppyapp/images/ss03.png)
+![Manipulative radiogroup options](app/kotlin+java/com.example.shoppyapp/images/ss04.png)
+![Invoice 1](app/kotlin+java/com.example.shoppyapp/images/ss05.png)
+![Full invoice](app/kotlin+java/com.example.shoppyapp/images/ss08.png)
 
 
 
