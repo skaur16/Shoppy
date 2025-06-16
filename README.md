@@ -8,12 +8,14 @@ The application basically asks for various information from the customer. This i
 
 ## Screenshots
 
-![Launch Screen](app/src/main/java/com/example/shoppyapp/images/ss01.png)
-![AutoComplete Textview](app/src/main/java/com/example/shoppyapp/images/ss02.png)
-![RadioButton and Dropdown](app/src/main/java/com/example/shoppyapp/images/ss03.png)
-![Manipulative radiogroup options](app/src/main/java/com/example/shoppyapp/images/ss04.png)
-![Invoice 1](app/src/main/java/com/example/shoppyapp/images/ss05.png)
-![Full invoice](app/src/main/java/com/example/shoppyapp/images/ss08.png)
+<img src="app/src/main/java/com/example/shoppyapp/images/ss01.png" width="400" alt="Launch Screen">
+<img src="app/src/main/java/com/example/shoppyapp/images/ss02.png" width="400" alt="AutoComplete Textview">
+<img src="app/src/main/java/com/example/shoppyapp/images/ss03.png" width="400" alt="RadioButton and Dropdown">
+<img src="app/src/main/java/com/example/shoppyapp/images/ss04.png" width="400" alt="Manipulative radiogroup options">
+<img src="app/src/main/java/com/example/shoppyapp/images/ss05.png" width="400" alt="Invoice 1">
+<img src="app/src/main/java/com/example/shoppyapp/images/ss08.png" width="400" alt="Full invoice">
+
+
 
 
 
