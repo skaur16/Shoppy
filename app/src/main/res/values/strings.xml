@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShoppyApp</string>
+    <string name="topBarName">Shoppy</string>
+    <string name="titleName">TheShoppy</string>
+    <string name="userNameLabel">Enter Your Name</string>
+    <string name="calculate">Calculate</string>
+    <string name="invoice">Invoice</string>
+    <string name="province">Province</string>
+    <string name="computerType">Computer Type</string>
+    <string name="selectBrand">Select Brand</string>
+    <string name="addOns">Add-Ons</string>
+    <string name="addSSD">Add SSD</string>
+    <string name="addPrinter">Add Printer</string>
+    <string name="addPeripherals">Add Peripherals</string>
+
+    <string name="ontario">Ontario</string>
+    <string name="manitoba">Manitoba</string>
+    <string name="quebec">Quebec</string>
+    <string name="alberta">Alberta</string>
+    <string name="britishColumbia">British Columbia</string>
+    <string name="novaScotia">Nova Scotia</string>
+    <string name="newBrunswick">New Brunswick</string>
+    <string name="newfoundlandAndLabrador">Newfoundland and Labrador</string>
+
+
+</resources>
